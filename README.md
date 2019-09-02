@@ -37,7 +37,7 @@ Communication will done using the following platforms:
 - Github
 - Slack
 
-In exceptional cases emails (getbusy@nodejs.africa)[mailto://getbusy@nodejs.africa]
+In exceptional cases emails [getbusy@nodejs.africa](mailto://getbusy@nodejs.africa)
 
 ### Incentives:
 - Weekly data bundle for each participant
