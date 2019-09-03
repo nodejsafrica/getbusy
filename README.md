@@ -1,12 +1,12 @@
 # Node.js Africa Get Busy Programme
-This repo is the home for Node.js Africa Get Busy Programme. The programme is to encourage beginner level Node.js developers get hands-on experience while preparing them for their next big gig. 
+This repo is the home for Node.js Africa Get Busy Programme. The programme is to encourage Entry Level Node.js developers get hands-on experience while preparing them for their next big gig. 
 
-Node.js Get Busy Programme is organized Node.js Africa to mentor and enguage developers in Africa. The programme will be entirely remote and will last for 3 months with weekly tasks, each task will be scored based on performance, delivery speed and code structure.
+Node.js Get Busy Programme is organised by Node.js Africa to mentor and engage developers in Africa. The programme will be entirely remote and will last for 3 months with weekly tasks, each task will be scored based on performance, delivery speed and code structure.
 
 During the programme participants will be required to complete project that will determine if they conitune to the next stage of the programme or not. 
 
 ### Who can participate:
-- Entry level Node.js Developers in Africa 
+- Entry Level Node.js Developers in Africa 
 
 ### Areas to be covered in the program
 - Server setup
@@ -44,9 +44,8 @@ In exceptional cases emails [getbusy@nodejs.africa](mailto://getbusy@nodejs.afri
 - Swags at the end of each month
 
 ### Maintainers
-- Abraham Jr. Agiri
-- Precious Dike
-- Precious Chukundah
+- Precious Dike - Technical Director, Node.js Africa (Get Busy Programme Champion)
+- Precious Chukundah - Interim Programme Manager, Node.js Africa 
 
 
 ## Backers 
