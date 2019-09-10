@@ -4,4 +4,4 @@
 #### HOW TO START PROJECT
 
   * node app.js
-  * make a get reqeuste on localhost:3000/api/user
+  * make a GET request on localhost:3000/api/user
