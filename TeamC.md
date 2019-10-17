@@ -19,3 +19,6 @@ This simple tool is basically for testing your nodejs apps while developing to h
 ## Dependencies 
 - Shelljs
 - make-runnable
+
+### Github repo link
+- https://github.com/lovisgod/loadb
